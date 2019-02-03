@@ -1,0 +1,22 @@
+{
+  "name": "docsify-json-variables",
+  "version": "1.0.0",
+  "description": "Docsify plugin. It loads variables from json file specified.",
+  "main": "index.js",
+  "repository": {
+    "type": "git", 
+    "url": "git+https://github.com/kissybnts/docsify-json-variables.git"
+  },
+  "keywords": [
+    "docsify",
+    "json",
+    "variables",
+    "plugin"
+  ],
+  "author": "Masataka Kishida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kissybnts/docsify-json-variables/issue"
+  },
+  "homepage": "https://github.com/kissybnts/docsify-json-variables#readme"
+}
