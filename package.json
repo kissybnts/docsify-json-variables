@@ -1,6 +1,6 @@
 {
   "name": "docsify-json-variables",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Docsify plugin. It loads variables from json file specified.",
   "main": "index.js",
   "repository": {
